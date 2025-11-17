@@ -5,6 +5,8 @@ Demostración práctica de un pipeline ETL de streaming a nivel productivo utili
 
 ## Estructura del Repositorio
 
+![Arquitectura](Arquitectura.gif)
+
 - **queries.sql**  
   Contiene consultas ad hoc SQL para explorar y validar la salida de Delta Live Tables (DLT) en todas las capas
 
