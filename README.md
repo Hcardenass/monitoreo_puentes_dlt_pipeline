@@ -36,7 +36,7 @@ Demostración práctica de un pipeline ETL de streaming a nivel productivo utili
 
 - Databricks workspace con Unity Catalog enabled  
 - Un cluster ejecutando un runtime de Databricks compatible con DLT  
-- Python 3.8+ y dependencias de PySpark 
+- Python 3.11+ y dependencias de PySpark 
 
 ---
 
